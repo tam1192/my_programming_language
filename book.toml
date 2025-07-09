@@ -1,0 +1,19 @@
+[book]
+authors = ["nikki9750"]
+language = "ja"
+multilingual = false
+src = "docs"
+title = "My Programming Language"
+
+[preprocessor.pagetoc]
+[preprocessor.alerts]
+[preprocessor.katex]
+
+after = ["links"]
+
+[output.html.playground]
+editable = true
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
