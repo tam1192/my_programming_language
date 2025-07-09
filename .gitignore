@@ -4,3 +4,6 @@ book
 # Added by cargo
 
 /target
+
+pagetoc.css
+pagetoc.js
